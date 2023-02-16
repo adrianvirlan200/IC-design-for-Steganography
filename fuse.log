@@ -1,0 +1,13 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/adi/Desktop/AC/tema2/test_process_isim_beh.exe -prj C:/Users/adi/Desktop/AC/tema2/test_process_beh.prj work.test_process work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/adi/Desktop/AC/tema2/division_algo.v" into library work
+Analyzing Verilog file "C:/Users/adi/Desktop/AC/tema2/base2_to_base3.v" into library work
+Analyzing Verilog file "C:/Users/adi/Desktop/AC/tema2/process.v" into library work
+ERROR:HDLCompiler:806 - "C:/Users/adi/Desktop/AC/tema2/process.v" Line 353: Syntax error near "end".
+ERROR:HDLCompiler:806 - "C:/Users/adi/Desktop/AC/tema2/process.v" Line 415: Syntax error near ")".
+ERROR:HDLCompiler:806 - "C:/Users/adi/Desktop/AC/tema2/process.v" Line 425: Syntax error near "else".
+ERROR:HDLCompiler:598 - "C:/Users/adi/Desktop/AC/tema2/process.v" Line 3: Module <process> ignored due to previous errors.
+Verilog file C:/Users/adi/Desktop/AC/tema2/process.v ignored due to errors

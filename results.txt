@@ -1,0 +1,9 @@
+ 0.00: 4096 out of 4096 pixels (100.00% completed) test image1 - grayscale
+ 0.00: 4096 out of 4096 pixels (100.00% completed) test image1 - compress
+ 0.00: 4096 out of 4096 pixels (100.00% completed) test image1 - encode
+ 0.00: 4096 out of 4096 pixels (100.00% completed) test image2 - grayscale
+ 0.00: 4096 out of 4096 pixels (100.00% completed) test image2 - compress
+ 0.00: 4096 out of 4096 pixels (100.00% completed) test image2 - encode
+ 0.00: 4096 out of 4096 pixels (100.00% completed) test lena - grayscale
+ 0.00: 4096 out of 4096 pixels (100.00% completed) test lena - compress
+ 0.00: 4096 out of 4096 pixels (100.00% completed) test lena - encode

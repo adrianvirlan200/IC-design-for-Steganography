@@ -1,0 +1,18 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -incremental test.test_lena -L unisims_ver -L unimacro_ver -L xilinxcorelib_ver -L tester=..\..\lib\tester -L test=..\..\lib\tests\lena -L reference=..\..\lib\reference -L uut=..\..\lib\uut -o tester.exe 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Starting static elaboration
+Completed static elaboration
+Compiling module image
+Compiling module div_algo(WIDTH=16)
+Compiling module base2_to_base3
+Compiling module process
+Compiling module ref_process
+Compiling module tester
+Compiling module test_lena
+Time Resolution for simulation is 1ps.
+Compiled 7 Verilog Units
+Built simulation executable tester.exe
+Fuse Memory Usage: 28320 KB
+Fuse CPU Usage: 406 ms

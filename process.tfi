@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+process instance_name (
+    .clk(clk), 
+    .in_pix(in_pix), 
+    .hiding_string(hiding_string), 
+    .row(row), 
+    .col(col), 
+    .out_we(out_we), 
+    .out_pix(out_pix), 
+    .gray_done(gray_done), 
+    .compress_done(compress_done), 
+    .encode_done(encode_done)
+    );
+
+

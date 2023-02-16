@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/adi/Desktop/AC/tema2/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/adi/Desktop/AC/tema2/xst"
+elaborate
+-ifn process.prj
+-ifmt mixed

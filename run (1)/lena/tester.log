@@ -1,0 +1,18 @@
+******************************************************************************** 
+**** Running test lena... 
+******************************************************************************** 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+test lena - grayscale transformation done in 8193 cycles
+--------------------------------------------------------------------------------
+test lena - compress transformation done in 49409 cycles
+--------------------------------------------------------------------------------
+test lena - encode transformation done in 17374 cycles
+--------------------------------------------------------------------------------
+Stopped at time : 1020755 ns : File "C:/Users/adi/Desktop/AC/tema2/build/bin/tester/tester.v" Line 352

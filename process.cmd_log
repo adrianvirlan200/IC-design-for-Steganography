@@ -1,0 +1,3 @@
+vhdtdtfi -lib work C:/Users/adi/Desktop/AC/tema2/process.v -lang verilog -prj tema2 -o process.spl -module process -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e process.spl C:/Users/adi/Desktop/AC/tema2/process.sym 
+vhdtdtfi -lang verilog -prj tema2 -o C:/Users/adi/Desktop/AC/tema2/process.tfi -lib work C:/Users/adi/Desktop/AC/tema2//process.v -module process -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
