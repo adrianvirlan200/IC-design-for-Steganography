@@ -5,5 +5,8 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
+<msg type="warning" file="HDLCompiler" num="835" delta="unknown" >"..\process.v" Line 22: Too many parameters for module instance <arg fmt="%s" index="1">b2_to_b3</arg>
+</msg>
+
 </messages>
 

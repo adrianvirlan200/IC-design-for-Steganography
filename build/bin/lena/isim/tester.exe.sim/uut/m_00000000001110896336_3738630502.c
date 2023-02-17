@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "C:/Users/adi/Desktop/AC/tema2/build/bin/process.v";
+static const char *ng0 = "D:/Facultate/A3S1/AC/tema2/build/bin/process.v";
 static int ng1[] = {0, 0};
 static int ng2[] = {2, 0};
 static int ng3[] = {1, 0};
@@ -36,15 +36,14 @@ static int ng11[] = {4, 0};
 static int ng12[] = {5, 0};
 static int ng13[] = {6, 0};
 static int ng14[] = {9, 0};
-static int ng15[] = {64, 0};
-static int ng16[] = {10, 0};
-static int ng17[] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
-static int ng18[] = {11, 0};
-static int ng19[] = {16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
-static int ng20[] = {17, 0};
-static int ng21[] = {13, 0};
-static int ng22[] = {14, 0};
-static int ng23[] = {18, 0};
+static int ng15[] = {10, 0};
+static int ng16[] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+static int ng17[] = {11, 0};
+static int ng18[] = {16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+static int ng19[] = {17, 0};
+static int ng20[] = {13, 0};
+static int ng21[] = {14, 0};
+static int ng22[] = {18, 0};
 
 
 
@@ -457,17 +456,17 @@ LAB24:    t2 = ((char*)((ng14)));
     if (t12 == 1)
         goto LAB25;
 
-LAB26:    t2 = ((char*)((ng16)));
+LAB26:    t2 = ((char*)((ng15)));
     t12 = xsi_vlog_unsigned_case_compare(t4, 5, t2, 32);
     if (t12 == 1)
         goto LAB27;
 
-LAB28:    t2 = ((char*)((ng18)));
+LAB28:    t2 = ((char*)((ng17)));
     t12 = xsi_vlog_unsigned_case_compare(t4, 5, t2, 32);
     if (t12 == 1)
         goto LAB29;
 
-LAB30:    t2 = ((char*)((ng20)));
+LAB30:    t2 = ((char*)((ng19)));
     t12 = xsi_vlog_unsigned_case_compare(t4, 5, t2, 32);
     if (t12 == 1)
         goto LAB31;
@@ -482,17 +481,17 @@ LAB34:    t2 = ((char*)((ng6)));
     if (t12 == 1)
         goto LAB35;
 
-LAB36:    t2 = ((char*)((ng21)));
+LAB36:    t2 = ((char*)((ng20)));
     t12 = xsi_vlog_unsigned_case_compare(t4, 5, t2, 32);
     if (t12 == 1)
         goto LAB37;
 
-LAB38:    t2 = ((char*)((ng22)));
+LAB38:    t2 = ((char*)((ng21)));
     t12 = xsi_vlog_unsigned_case_compare(t4, 5, t2, 32);
     if (t12 == 1)
         goto LAB39;
 
-LAB40:    t2 = ((char*)((ng23)));
+LAB40:    t2 = ((char*)((ng22)));
     t12 = xsi_vlog_unsigned_case_compare(t4, 5, t2, 32);
     if (t12 == 1)
         goto LAB41;
@@ -1525,7 +1524,7 @@ LAB321:    xsi_set_current_line(289, ng0);
     t7 = ((char*)((ng4)));
     memset(t10, 0, 8);
     xsi_vlog_unsigned_add(t10, 32, t5, 6, t7, 32);
-    t8 = ((char*)((ng15)));
+    t8 = ((char*)((ng10)));
     memset(t19, 0, 8);
     t9 = (t10 + 4);
     if (*((unsigned int *)t9) != 0)
@@ -1712,11 +1711,11 @@ LAB402:    xsi_set_current_line(316, ng0);
     t3 = (t0 + 4968);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 6);
     xsi_set_current_line(323, ng0);
-    t2 = ((char*)((ng17)));
+    t2 = ((char*)((ng16)));
     t3 = (t0 + 7688);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 4096);
     xsi_set_current_line(325, ng0);
-    t2 = ((char*)((ng18)));
+    t2 = ((char*)((ng17)));
     t3 = (t0 + 3688);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 5);
     goto LAB43;
@@ -1783,7 +1782,7 @@ LAB412:    xsi_set_current_line(342, ng0);
     t2 = (t0 + 7528);
     t3 = (t2 + 56U);
     t5 = *((char **)t3);
-    t7 = ((char*)((ng19)));
+    t7 = ((char*)((ng18)));
     xsi_vlog_unsigned_add(t127, 4096, t5, 4096, t7, 32);
     t8 = (t0 + 7688);
     xsi_vlogvar_assign_value(t8, t127, 0, 0, 4096);
@@ -1800,7 +1799,7 @@ LAB412:    xsi_set_current_line(342, ng0);
     t3 = (t0 + 7368);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 2);
     xsi_set_current_line(349, ng0);
-    t2 = ((char*)((ng20)));
+    t2 = ((char*)((ng19)));
     t3 = (t0 + 3688);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 5);
 
@@ -1829,7 +1828,7 @@ LAB419:    goto LAB43;
 LAB33:    xsi_set_current_line(363, ng0);
 
 LAB420:    xsi_set_current_line(364, ng0);
-    t3 = ((char*)((ng21)));
+    t3 = ((char*)((ng20)));
     t5 = (t0 + 3688);
     xsi_vlogvar_assign_value(t5, t3, 0, 0, 5);
     xsi_set_current_line(366, ng0);
@@ -2112,7 +2111,7 @@ LAB528:    t55 = (t66 + 4);
 
 LAB541:
 LAB542:    xsi_set_current_line(418, ng0);
-    t2 = ((char*)((ng21)));
+    t2 = ((char*)((ng20)));
     t3 = (t0 + 3688);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 5);
     goto LAB43;
@@ -2120,7 +2119,7 @@ LAB542:    xsi_set_current_line(418, ng0);
 LAB37:    xsi_set_current_line(423, ng0);
 
 LAB579:    xsi_set_current_line(424, ng0);
-    t3 = ((char*)((ng20)));
+    t3 = ((char*)((ng19)));
     t5 = (t0 + 3688);
     xsi_vlogvar_assign_value(t5, t3, 0, 0, 5);
     xsi_set_current_line(426, ng0);
@@ -2288,7 +2287,7 @@ LAB606:    goto LAB43;
 LAB39:    xsi_set_current_line(440, ng0);
 
 LAB660:    xsi_set_current_line(441, ng0);
-    t3 = ((char*)((ng18)));
+    t3 = ((char*)((ng17)));
     t5 = (t0 + 3688);
     xsi_vlogvar_assign_value(t5, t3, 0, 0, 5);
     xsi_set_current_line(443, ng0);
@@ -4208,7 +4207,7 @@ LAB396:    t104 = *((unsigned int *)t68);
     goto LAB398;
 
 LAB399:    xsi_set_current_line(310, ng0);
-    t51 = ((char*)((ng16)));
+    t51 = ((char*)((ng15)));
     t52 = (t0 + 3688);
     xsi_vlogvar_assign_value(t52, t51, 0, 0, 5);
     goto LAB401;
@@ -4238,7 +4237,7 @@ LAB411:    xsi_set_current_line(336, ng0);
     t3 = (t0 + 3208);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 1);
     xsi_set_current_line(339, ng0);
-    t2 = ((char*)((ng18)));
+    t2 = ((char*)((ng17)));
     t3 = (t0 + 3688);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 5);
     goto LAB410;
@@ -4535,7 +4534,7 @@ LAB472:    xsi_set_current_line(370, ng0);
     t3 = (t0 + 4328);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 6);
     xsi_set_current_line(378, ng0);
-    t2 = ((char*)((ng20)));
+    t2 = ((char*)((ng19)));
     t3 = (t0 + 3688);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 5);
     goto LAB471;
@@ -4789,7 +4788,7 @@ LAB516:    xsi_set_current_line(383, ng0);
     t3 = (t0 + 4328);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 6);
     xsi_set_current_line(391, ng0);
-    t2 = ((char*)((ng20)));
+    t2 = ((char*)((ng19)));
     t3 = (t0 + 3688);
     xsi_vlogvar_assign_value(t3, t2, 0, 0, 5);
     goto LAB515;
@@ -5702,7 +5701,7 @@ LAB654:    t104 = *((unsigned int *)t66);
     goto LAB656;
 
 LAB657:    xsi_set_current_line(435, ng0);
-    t49 = ((char*)((ng22)));
+    t49 = ((char*)((ng21)));
     t51 = (t0 + 3688);
     xsi_vlogvar_assign_value(t51, t49, 0, 0, 5);
     goto LAB659;
@@ -6084,7 +6083,7 @@ LAB735:    t104 = *((unsigned int *)t68);
     goto LAB737;
 
 LAB738:    xsi_set_current_line(460, ng0);
-    t52 = ((char*)((ng23)));
+    t52 = ((char*)((ng22)));
     t53 = (t0 + 3688);
     xsi_vlogvar_assign_value(t53, t52, 0, 0, 5);
     goto LAB740;

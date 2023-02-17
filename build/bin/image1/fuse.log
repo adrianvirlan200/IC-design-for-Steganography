@@ -3,16 +3,19 @@ ISim P.20131013 (signature 0x7708f090)
 Number of CPUs detected in this system: 12
 Turning on mult-threading, number of parallel sub-compilation jobs: 24 
 Starting static elaboration
+WARNING:HDLCompiler:835 - "..\process.v" Line 22: Too many parameters for module instance b2_to_b3
 Completed static elaboration
 Compiling module image
-Compiling module div_algo(WIDTH=16)
+Compiling module base2_to_base3_fsm
+Compiling module div_algo
 Compiling module base2_to_base3
 Compiling module process
 Compiling module ref_process
 Compiling module tester
 Compiling module test_image1
 Time Resolution for simulation is 1ps.
-Compiled 7 Verilog Units
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 8 Verilog Units
 Built simulation executable tester.exe
-Fuse Memory Usage: 28908 KB
-Fuse CPU Usage: 358 ms
+Fuse Memory Usage: 29216 KB
+Fuse CPU Usage: 390 ms

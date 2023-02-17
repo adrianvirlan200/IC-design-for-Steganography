@@ -15,6 +15,6 @@ test lena - grayscale transformation done in 8193 cycles
 --------------------------------------------------------------------------------
 test lena - compress transformation done in 49409 cycles
 --------------------------------------------------------------------------------
-test lena - encode transformation done in 17374 cycles
+test lena - encode transformation done in 16974 cycles
 --------------------------------------------------------------------------------
-Stopped at time : 1020755 ns : File "C:/Users/adi/Desktop/AC/tema2/build/bin/tester/tester.v" Line 352
+Stopped at time : 1016755 ns : File "D:/Facultate/A3S1/AC/tema2/build/bin/tester/tester.v" Line 352

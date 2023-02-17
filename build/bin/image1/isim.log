@@ -15,6 +15,6 @@ test image1 - grayscale transformation done in 8193 cycles
 --------------------------------------------------------------------------------
 test image1 - compress transformation done in 49409 cycles
 --------------------------------------------------------------------------------
-test image1 - encode transformation done in 15112 cycles
+test image1 - encode transformation done in 14844 cycles
 --------------------------------------------------------------------------------
-Stopped at time : 1007195 ns : File "C:/Users/adi/Desktop/AC/tema2/build/bin/tester/tester.v" Line 352
+Stopped at time : 1004515 ns : File "D:/Facultate/A3S1/AC/tema2/build/bin/tester/tester.v" Line 352

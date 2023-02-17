@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "C:/Users/adi/Desktop/AC/tema2/build/bin/tester/tester.v";
+static const char *ng0 = "D:/Facultate/A3S1/AC/tema2/build/bin/tester/tester.v";
 static const char *ng1 = "test.config";
 static const char *ng2 = "r";
 static const char *ng3 = "error opening config file\n";

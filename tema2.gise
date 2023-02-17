@@ -45,14 +45,11 @@
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForInputs"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputAdded"/>
       <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
       <status xil_pn:value="OutputChanged"/>
-      <outfile xil_pn:name="base2_to_base3.v"/>
-      <outfile xil_pn:name="division_algo.v"/>
-      <outfile xil_pn:name="image.v"/>
-      <outfile xil_pn:name="process.v"/>
-      <outfile xil_pn:name="test.v"/>
-      <outfile xil_pn:name="test_process.v"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
     <transform xil_pn:end_ts="1671467801" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-8189370555747535307" xil_pn:start_ts="1671467801">
       <status xil_pn:value="SuccessfullyRun"/>
@@ -73,20 +70,17 @@
       <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
       <status xil_pn:value="OutputChanged"/>
-      <outfile xil_pn:name="base2_to_base3.v"/>
-      <outfile xil_pn:name="division_algo.v"/>
-      <outfile xil_pn:name="image.v"/>
-      <outfile xil_pn:name="process.v"/>
-      <outfile xil_pn:name="test.v"/>
-      <outfile xil_pn:name="test_process.v"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
     <transform xil_pn:end_ts="1671467803" xil_pn:in_ck="986186366515652539" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-7737969269469905077" xil_pn:start_ts="1671467801">
       <status xil_pn:value="FailedRun"/>
-      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="NotReadyToRun"/>
       <status xil_pn:value="OutOfDateForInputs"/>
       <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
     </transform>
   </transforms>
 
