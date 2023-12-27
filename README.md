@@ -24,7 +24,7 @@ The FSM behavior is summarized by the following picture:
 * DONE - final state marking the end of execution; in this state the done signal is asserted
 
 
-# Second part consists of a Verilog a synchronous sequential circuit that hides a secret message in an image.
+# Second part consists of a synchronous sequential circuit that hides a secret message in an image.
 The initial images are represented in RGB color space and are 64×64 elements (pixels) in size, where each element has 24 bits (8 'R' bits, 8 'G' bits and 8 'B' bits). The message is text, with characters belonging to the extASCII set (8 bits required for each character). In order to be able to encrypt the message in the image, the following processing steps will be required:
 ## 1. Image conversion from RGB to grayscale
 The initial image is coded in RGB space, with values on all three channels. The resulting image will be stored in 8 bits in the 'G' channel. The value in channel 'G' will be calculated as the average of the maximum and minimum values in the three channels. After this operation, channels 'R' and 'B' will be set to '0'. Each pixel is processed individually.
