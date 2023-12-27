@@ -1,4 +1,4 @@
-# First part consists of a finite state machine that aims to transform a number from number base 2 to number base 3.
+# First part consists of a finite state machine that aims to transform a number from base 2 to base 3.
 In order to solve the assignment it is necessary to divide the problem into 2 distinct modules with specific functionalities. The block diagram is shown in Fig1. Block diagram:
 ![image](https://github.com/adrianvirlan200/IC-design-for-Steganography/assets/74298808/8dec10a8-78d4-412b-aeba-c93e817e9913)
 
